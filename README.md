@@ -1,2 +1,2 @@
 # Travel-Log.
-This web site containing all about travelling website.. 
+This web site containing all about travelling website.
